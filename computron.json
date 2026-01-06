@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "Computron",
-  "author": "Ryan Wangner",
+  "author": "Ryan Wangner1",
   "website": "https://www.rhn.me",
   "model": "computron.tflite",
   "trained_languages": ["en"],
