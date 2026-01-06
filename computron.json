@@ -5,7 +5,7 @@
   "website": "https://www.rhn.me",
   "model": "computron.tflite",
   "trained_languages": ["en"],
-  "version": 2,
+  "version": 3,
   "micro": {
     "probability_cutoff": 0.72,
     "sliding_window_size": 4,
